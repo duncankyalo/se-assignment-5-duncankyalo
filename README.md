@@ -38,7 +38,7 @@ Answer the following questions based on your understanding of the installation a
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
 
     ANSWERS
-    
+
 Step 1: Adding VS Code to the System
 Visit the following URL to access VS Code: https://code.visualstudio.com/ It's the designated gathering place for all things VS Code.
 Obtain the installer here: Select "Download for Windows" from the menu. The version that is required for your Windows 11 machine will be known by VS Code.
@@ -126,7 +126,7 @@ Link up with GitHub: Click the "Publish to GitHub" button in the "Source Control
 Promote your modifications: To send your contributions to your GitHub repository, click "Push".
 Making Use of Commands:
 git push origin main: This command pushes modifications to GitHub's main branch. If needed, replace main with the name of your branch.
-
+![alt text](<Screenshot (72).png>)
 
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
